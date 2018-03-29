@@ -9,6 +9,7 @@ header{
     /* opacity: 0.2; */
     height: 70px;
     position: fixed;
+    z-index: 10;
 }
 
 .ancho{
@@ -79,4 +80,33 @@ nav ul li a:hover{
     background-position: center;
     background-attachment: contain;
     background-size: cover;
+}
+
+.ancho-letras{
+    top: 300px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+     z-index: 1;
+}
+
+.letras-slider{
+width: 80%;
+margin: auto;
+
+}
+
+.letras-slider h1{
+    color: #fff;
+    background: rgba(0, 0, 0, .2);
+    font-family: abel;
+    font-size: 60px;
+}
+
+.letras-slider p {
+    color: #fff;
+    background: rgba(0, 0, 0, .2);
+    font-family: abel;
+    font-size: 20px;
+    padding-top: 50px;
 }
