@@ -70,3 +70,37 @@ p {
 .columnasx3 img{
     width: 100%;
 }
+
+.banner-1:hover{
+    background: #777;
+    transition: 0.4s;
+}
+
+.banner-1{
+    width: 100%;
+    background: orange;
+    clear: both;
+    padding-top: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    margin: auto;
+    text-align: center;
+    transition: 0.4s;
+}
+
+.banner-1 h3{
+    color: #fff;
+    font-size: 32px;
+}
+
+.columnasx3 h4{
+    
+    padding-bottom: 20px;
+}
+
+#icon{
+    float: left;
+    padding-right: 17px;
+    color: orange;
+}
