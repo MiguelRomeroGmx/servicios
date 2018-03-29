@@ -1,0 +1,9 @@
+.navbar{
+    background: #fff;
+    /* opacity: 0.3; */
+    color: black;
+}
+
+#carouselExampleControls{
+    height: 300px;
+}
