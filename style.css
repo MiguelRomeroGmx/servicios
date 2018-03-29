@@ -76,26 +76,27 @@ nav ul li a:hover{
 #fondo{
     
     background: url(img/fondo.jpg);
-    /* background: rgba(0, 0, 0, .2); */
     width: 100%;
-    /* height: 500px; */
     background-position: center;
     background-attachment: contain;
     background-size: cover;
 }
 
 .ancho-letras{
-    top: 300px;
+    /* top: 300px; */
     position: absolute;
     width: 100%;
     text-align: center;
      z-index: 1;
+    
+    height: 100%;
 }
 
 .letras-slider{
-width: 80%;
+width: 100%;
 margin: auto;
 
+height: 100%;
 }
 
 .letras-slider h1{
@@ -103,12 +104,15 @@ margin: auto;
     background: rgba(0, 0, 0, .2);
     font-family: abel;
     font-size: 60px;
+    padding-top: 20%;
+    height: 100%;
+     box-sizing: border-box;
 }
 
-.letras-slider p {
-    color: #fff;
+/* .letras-slider p {
+    color: #333;
     background: rgba(0, 0, 0, .2);
     font-family: abel;
     font-size: 20px;
-    padding-top: 50px;
-}
+    padding-top: 22%;
+} */
