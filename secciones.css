@@ -130,3 +130,106 @@ p {
     padding-top: 7%;
 
 }
+
+.tabla {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.tablax4 {
+    float: left;
+    width: 25%;
+    margin-top: 20px;
+}
+
+.tablaxd {
+    float: left;
+    width: 25%;
+    margin-top: 10px;
+}
+
+
+
+.redes-sociales .tabla {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.redes-sociales .tablax4 {
+    float: left;
+    width: 25%;
+    margin-top: 20px;
+}
+
+.redes-sociales .caja-precio {
+    border: 1px solid white;
+    background: white;
+}
+
+.ligas {
+    text-decoration: none;
+    color: orange;
+}
+
+.redes-sociales .icono-precio {
+    /* color: #85c34a; */
+    color: orange;
+    padding-top: 20px;
+    font-size: 3em;
+    padding-bottom: 10px;
+}
+
+.redes-sociales .caja-precio:hover {
+    border: 5px solid white;
+}
+
+.redes-sociales .caja-precio h4 {
+    color: orange;
+    font-family: 'Heebo',
+    sans-serif;
+}
+
+.redes-sociales .precio-1 {
+    /* color: #85c34a; */
+    color: orange;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Heebo',
+    sans-serif;
+}
+
+.redes-sociales .dolar {
+    font-size: 14px;
+    /* color: #85c34a; */
+    font-family: 'Heebo',
+    sans-serif;
+    color: black;
+    vertical-align: super;
+}
+
+.contacto {
+    /* margin-top: 50px; */
+    clear: both;
+    /* padding: 50px 0; */
+    padding-top: 20px;
+}
+
+
+.limpia {
+    clear: both;
+}
+
+footer {
+    clear: both;
+    margin-top: 50px;
+    background: orange;
+    color: black;
+    text-align: center;
+    padding: 25px;
+    font-family: 'Heebo',
+    sans-serif;
+}
