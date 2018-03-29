@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Heebo');
+
+h1, h2, h4 ,h5, h6{
+    font-family: 'Abel',
+    sans-serif;
+    text-transform: uppercase;
+    color: #444;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-size: 35px;
+    color: #333;
+}
+
+h3{
+    font-family: 'Heebo',
+    sans-serif;
+    line-height: 1.5;
+    font-size: 20px;
+    padding-top: 20px;
+    font-weight: normal;
+    color: #777;
+}
+
+h4{
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+h5{
+    font-family: 'Heebo',
+    sans-serif;
+    line-height: 1.5;
+    font-weight: normal;
+    padding: 10px 0;
+    font-size: 12px;
+}
+
+p {
+    font-family: 'Heebo', sans-serif;
+    color: #888;
+    font-size: 15px;
+}
+
+.wap{
+    width: 90%;
+    margin: auto;
+}
+
+.bienvenidos{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.contenedor-columnas{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.columnasx3{
+    width: 33%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.columnasx3 img{
+    width: 100%;
+}
