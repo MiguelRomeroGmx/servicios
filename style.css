@@ -73,6 +73,21 @@ nav ul li a:hover{
     src: url(fonts/Abel-Regular.ttf);
 }
 
+.fondo-nav{
+    /* background: rgba(196, 132, 50, 0.9); */
+     background: rgba(0, 0, 0, .8);
+    /* background: rgba(205, 181, 29, .9); */
+}
+
+.fondo-nav nav ul li a:hover{
+     /* color: rgb(218, 15, 15); */
+     color: orange;
+}
+
+.fondo-nav .logo p a:hover {
+    color: orange;
+}
+
 #fondo{
     
     background: url(img/fondo.jpg);
