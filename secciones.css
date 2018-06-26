@@ -252,15 +252,26 @@ header {
 .logo {
     width: 100%;
     height: 15px;
-    text-align: center;
     padding: 0;
-    margin: 0;
+    margin: auto;
 }
 
-.logo p a{
+.logoConectodos{
+    width: 30%;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    /* margin: auto; */
+}
+
+
+
+/* .logo p a{
      text-align: center;
     font-size: 25px;
-}
+} */
 
 nav {
     width: 100%;
