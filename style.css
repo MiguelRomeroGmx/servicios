@@ -12,6 +12,14 @@ header{
     z-index: 10;
 }
 
+.logoConectodos{
+
+    width: 70%;
+    height: 95%;
+    float: left;
+    box-sizing: border-box;
+}
+
 .ancho{
     width: 80%;
     height: 70px;
@@ -55,7 +63,7 @@ nav ul li {
 }
 
 nav ul li a{
-    color: #fff;
+    color: rgb(3, 0, 0);
     font-size: 15px;
     text-decoration: none;
     padding-left: 15px;
@@ -65,7 +73,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: #000;
+    color: orange;
 }
 
 @font-face{
@@ -75,8 +83,9 @@ nav ul li a:hover{
 
 .fondo-nav{
     /* background: rgba(196, 132, 50, 0.9); */
-     background: rgba(0, 0, 0, .8);
-    /* background: rgba(205, 181, 29, .9); */
+     /* background: rgba(0, 0, 0, .8); */
+    background: rgba(245, 243, 243, 0.8);
+
 }
 
 .fondo-nav nav ul li a:hover{
